@@ -1,4 +1,4 @@
 theme: jekyll-theme-slate
 description: a web site to learn github pages
 title: the title of the github page created
-important notice added to the config.yml to see what happens when you don't have a descriptor to the text
+heading: important notice added to the config.yml to see what happens when you don't have a descriptor to the text
